@@ -8,7 +8,7 @@ First download and install QGIS Long Term Release 2.18.26 [32bit](http://downloa
 If you would like to use PAT's VESPER Kriging tool, then you will also need to download and install
 [VESPER](https://sydney.edu.au/agriculture/pal/software/vesper.shtml).
 
-If you would like to use PAT's Whole-of-block analysis tool then you will also need to download and install [R](http://r-project.org/)
+If you would like to use PAT's Whole-of-block analysis tool then you will also need to download and install [R](http://r-project.org/).
 
 
 #### Install the Precision Agriculture Tools (PAT) Plugin.
